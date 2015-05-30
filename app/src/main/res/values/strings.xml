@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">contact</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="CAMPions">
+        <item>Messi</item>
+        <item>Neymar</item>
+        <item>Suarez</item>
+        <item>Rakitic</item>
+        <item>Iniesta</item>
+        <item>Xavi</item>
+        <item>Alba</item>
+        <item>Mascherano</item>
+        <item>Pique</item>
+        <item>Alves</item>
+        <item>Bravo</item>
+    </string-array>
+    <string-array name="NOUmbers">
+        <item>10</item>
+        <item>11</item>
+        <item>9</item>
+        <item>4</item>
+        <item>8</item>
+        <item>6</item>
+        <item>18</item>
+        <item>14</item>
+        <item>3</item>
+        <item>22</item>
+        <item>13</item>
+    </string-array>
+</resources>
